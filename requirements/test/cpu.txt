@@ -798,7 +798,7 @@ pygments==2.18.0
     # via
     #   pytest
     #   rich
-pyjwt==2.11.0
+pyjwt==2.15.0
     # via
     #   mcp
     #   msal
@@ -1233,7 +1233,7 @@ typing-inspection==0.4.2
     #   pydantic-settings
 tzdata==2024.2
     # via pandas
-urllib3==2.7.0
+urllib3==2.8.0
     # via
     #   blobfile
     #   botocore
@@ -1253,7 +1253,7 @@ uvloop==0.22.1
     # via uvicorn
 vector-quantize-pytorch==1.21.2
     # via -r requirements/test/cuda.in
-virtualenv==20.31.2
+virtualenv==21.14.13
     # via ray
 vocos==0.1.0
     # via -r requirements/test/cuda.in
