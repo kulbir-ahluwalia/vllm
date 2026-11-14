@@ -230,7 +230,7 @@ fastrlock==0.8.2
     # via cupy-cuda12x
 fastsafetensors==0.3.2
     # via -r requirements/test/cuda.in
-filelock==4.2.9
+filelock==4.2.10
     # via
     #   -r requirements/test/../common.txt
     #   blobfile
@@ -588,7 +588,7 @@ opencv-python-headless==4.13.0.90
     #   mistral-common
 openpyxl==3.1.5
     # via -r requirements/test/cuda.in
-opentelemetry-api==1.35.0
+opentelemetry-api==1.45.2
     # via
     #   -r requirements/test/../common.txt
     #   opentelemetry-exporter-otlp-proto-grpc
