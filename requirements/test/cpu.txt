@@ -470,7 +470,7 @@ mbstrdecoder==1.1.3
     #   dataproperty
     #   pytablewriter
     #   typepy
-mcp==2.3.0
+mcp==1.30.0
     # via -r requirements/test/../common.txt
 mdurl==0.1.2
     # via markdown-it-py
@@ -1004,7 +1004,7 @@ sentry-sdk==2.63.0
     # via fastapi-cloud-cli
 setproctitle==1.3.7
     # via -r requirements/test/../common.txt
-setuptools==83.0.0
+setuptools==84.1.0
     # via
     #   -r requirements/test/../common.txt
     #   model-hosting-container-standards
